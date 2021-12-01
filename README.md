@@ -1,0 +1,11 @@
+- 👋 Olá, seja bem vindo(a) no meu perfil.
+- 👀 Idade: 23 anos
+- 💻 Front-end developer
+- 💞️ Faculdade de tecnologia de Garça - Analise e desenvolvimento de sistema
+- [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fuzer-0b028a209/)
+- Skills
+- ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+- ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Css](https://br.pinterest.com/pin/789396640944850387/)
